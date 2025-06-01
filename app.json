@@ -74,7 +74,7 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "254705100651": "Enter your number eg, 2547xxxxxxx",
       "value": "",
       "required": true 
     },
@@ -99,7 +99,7 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "BWM-XMD;;;H4sIAAAAAAAAA61Ua6+iSBD9L/0VM/KSRpObLCAo+Nbrc7MfWmigRR52NypO/O8T9N65k8zszN1kvzXdRdU5VafOV5DlhOEBrkDnKygoOSOO6yOvCgw6wCzDEFPQAAHiCHQANsd8FgZwvwumM3c5CR3utlpr86j2vMEoUqAhJao8QqcNewH3BijK/ZH4v0m4D/CMVkfhHPq7ld9OCsuWN35/FoTCMG951NBi3tVkZ+3MXsC9zogIJVlkFzFOMUXHAa6miNDPwT+ZCystgliKriTebY9iQIbalQwWQXKC7uhVFi8Oy+PZLBt9Dn5KTl2+1XI3bB6nzXT4qnjDYBqbI+E6pU5wkVB/tFemrueoT/iMRBkO3ABnnPDq030X3WF3ZQiDWThbV1o21NKzWR7ycrHeSGwCER42F0v1FAWZ/Tngbbmv9udU5uN9ovHJ9VbKCZRWrprsQtkbnFhkomlwjnRn+SPwKX3XSvJf+i6PI9nZZwgPhAh2k+HrQJD6RrZrc3vUFGa5lYT6Kd2Frv1J2exgrOF1knbpVu1NdfVQ7ebJdiDY47ltwG3WW237fB1hz/Q/4CNe0t+hvEDR1WVvPSyaFy83Sy9ifqpCex1IO7PZkksYQeeqntQt9M798WXZHL3utfm1EPRtd8nSoYVHMKPe0D0pWyuHyQVGhvHyYJTgyg1AR7o3AMURYZwiTvLscQflBkDBeYF9ivmjveC2zeVmV2obJJhN4YTolU/crOX25wpMIkPYniZymFNdmVxeQAMUNPcxYzjoE8ZzWo0wYyjCDHT+fkyqJk1xmnPskaCeR0uFYksSRa0l/cW+XGLEGSqKLxnmoAFCmqcjDDqclrgBHj+0LcnS1TY0VElWJM2Gumy1YVsX7baptyyzppg+i76SFDOO0qJmpuoQQhVq98b/g0NzZGioOhRlSWkbjiga0NZk2TAVC+qaZP0Rxz8NkOErf+q47r4iNUBIKOPLrCyOOQreRf7+iHw/LzO+qDLfqg+Ygo74cY05J1nEamZlhqgfkzO2ah6gE6Ijw98HjikO3rm8mZiVB7UO9bk686zxDNTY60Q/9aYj/9yd4zOqpi3qotJuQajXgfX9/Tu+Ol2AOSJHBjrAmqQjIuSOPc1u+sju9Qw7MqzIAB983vfkqUMfH+Y37SCdlgwtYK+Y73uTsbCWpSsNVWd8iVeDyth7vYs5evlFEtABjOWivW9praWbOK5LHDGJhBTz+CSbUinkwy6lVVpFrh6zfrxyLnA7KokedcP9qhvbY49X86BqVk5in2BfoYd5ujGil7pagM/Exz8Wy87n/oBuQk9bp/re2rS8ArJ9ubkIPWG7ONi+u0qmO4miwWVZlMjoNQ8bJbwNb9jfnVu3SHPXiYKDSX4NRZ25auCwmxU9N/jhIMc35yZvu0UenyHBDyPMUD2/P07uibvWl3hv/JDizVn/xZ3MTT8XfSFvo+Owl5TX03J9PRzCI+c+UgTz1XdXCxb1qjkzXsG9FnpxRDzMaQo6AGUBzUkAGoDmZS1YNwvz3xSzDNE13ogfEePGxxL8aq+UZ9SU5kUfsRh0gDRQ474K7t8AjUC7JWEIAAA=": "Your session ID",
       "value": "",
       "required": true
     },    
